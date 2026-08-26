@@ -1,7 +1,7 @@
 'use client'
 import { useState } from 'react'
 
-const ADMIN_PASS = 'admin123'
+const ADMIN_PASS = 'HealthConnect@Bu!!2490'
 
 export default function AdminPage() {
   const [logged, setLogged] = useState(false)
