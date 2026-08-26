@@ -13,7 +13,7 @@ import Contact from './components/Contact'
 import Footer from './components/Footer'
 
 export default function Home() {
-  const [lang, setLang] = useState<Lang>('fr')
+  const [lang, setLang] = useState<Lang>('en')
   const c = content[lang]
 
   return (
