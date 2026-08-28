@@ -48,7 +48,7 @@ export const content = {
       titre: "Ce que disent nos patients",
       description: "Des histoires vraies de patients qui ont bénéficié de notre plateforme et qui ont vu leur vie changer.",
       items: [
-        { nom: "Marie K.", lieu: "Bujumbura, Burundi", texte: "Grâce à HealthConnect, j'ai pu consulter un cardiologue depuis mon village sans me déplacer. Le médecin était professionnel et attentif. C'est un miracle pour nous qui vivons loin des grandes villes.", etoiles: 5, initiale: "M" },
+        { nom: "Marie K.",photo: "/patients/marie-k.jpg", initiale: "M", lieu: "Bujumbura, Burundi", texte: "Grâce à HealthConnect, j'ai pu consulter un cardiologue depuis mon village sans me déplacer. Le médecin était professionnel et attentif. C'est un miracle pour nous qui vivons loin des grandes villes.", etoiles: 5, initiale: "M" },
         { nom: "Jean-Pierre N.", lieu: "Gitega, Burundi", texte: "Mes médicaments ont été entièrement pris en charge par un bienfaiteur que je ne connais pas. Cette générosité m'a sauvé la vie. Je ne savais pas que de telles initiatives existaient.", etoiles: 5, initiale: "J" },
         { nom: "Amina S.", lieu: "Ngozi, Burundi", texte: "L'agent de santé est venu me voir à domicile, a fait un dossier complet et j'ai eu une consultation vidéo avec un médecin spécialiste le lendemain. Service rapide et humain.", etoiles: 5, initiale: "A" },
         { nom: "Paul M.", lieu: "Rumonge, Burundi", texte: "Mon fils était hospitalisé et les frais étaient énormes. HealthConnect nous a aidés à trouver un financement. Je ne sais pas comment remercier cette équipe extraordinaire.", etoiles: 5, initiale: "P" },
